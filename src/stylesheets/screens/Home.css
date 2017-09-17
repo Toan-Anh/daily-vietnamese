@@ -1,0 +1,15 @@
+.flex-container {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center; }
+
+.h1 {
+  text-align: center; }
+
+.jumbotron {
+  background: #DF4534;
+  color: white;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column; }

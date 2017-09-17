@@ -1,0 +1,25 @@
+html {
+  min-height: 100%;
+  display: flex; }
+
+body {
+  margin: 0;
+  padding: 0;
+  flex: 1;
+  font-family: 'Open Sans';
+  background: #F7F7F7; }
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%; }
+
+#master-container {
+  display: flex;
+  flex-direction: column;
+  flex: 1; }
+
+#main-body {
+  display: flex;
+  flex-direction: column;
+  flex: 1; }

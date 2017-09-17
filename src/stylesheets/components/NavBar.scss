@@ -1,0 +1,29 @@
+.custom-nav-bar {
+    margin: 0px;
+    padding: 0px;
+
+    height: 96px;
+    display: flex;
+    align-items: center;
+
+    background: white;
+    border: none;
+    border-radius: 0px;
+
+    box-shadow: 4px 0px 6px rgba(0, 0, 0, 0.5);
+}
+
+.custom-nav {
+    font-family: "Lato";
+    font-size: medium;
+    text-transform: uppercase;
+}
+
+.custom-brand {
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav-bar-logo {
+    height: 100%;
+}
