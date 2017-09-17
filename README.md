@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./src/res/logo.svg" style="max-width: 300px;"/><br>
+    <img src="./src/res/logo.svg" style="width: 300px;"/><br>
     Daily Vietnamese
 </h1>
 
