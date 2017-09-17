@@ -1,6 +1,6 @@
 import userReducer from './userReducer';
 
 export default {
-    user: userReducer,
-    settings: {},
+	user: userReducer,
+	settings: {}
 };

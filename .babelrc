@@ -1,0 +1,17 @@
+{
+  "presets": ["react-app"],
+  "plugins": [
+	"transform-decorators-legacy",
+    [
+      "module-resolver",
+      {
+        "cwd": "babelrc",
+        "root": ["./src"],
+        "alias": {
+          "~": "./src"
+        }
+      }
+    ]
+  ],
+  "sourceMaps": true
+}
